@@ -163,7 +163,7 @@ Use the **SORT** function in Excel 365/2021 to sort your data by one or multiple
 
 4. Sort by multiple columns:
    ```excel
-   =SORT(A2:D10, {2, 1}, {1, -1})
+   =SORT(A2:D10, {1, 2}, {1, -1})
    ```
    *(By Last Name ascending, then by Sales descending)*
 
